@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some basic information on me.
+Some basic information on me:
 
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Lars and I'm a product manager at HubSpot. When I'm not trying to simplify products, I'm probably skiing, traveling, or otherwise generally exploring the outdoors.
 
 <!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
