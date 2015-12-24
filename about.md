@@ -8,6 +8,8 @@ Some basic information on me:
 
 I'm Lars and I'm a product manager at HubSpot. When I'm not trying to simplify products, I'm probably skiing, traveling, or otherwise generally exploring the outdoors.
 
+If you want to an update on my new posts, drop your details in the form below:
+
 <!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
 <![endif]-->
