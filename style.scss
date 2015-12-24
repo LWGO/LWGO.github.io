@@ -282,23 +282,11 @@ footer {
   text-align: center;
 }
 
-.hbspt-form {
+.hs-button primary large {
+  background-color: #4184cc;
+  color: #ffffff;
+  width: 100px;
   
-}
-
-.hs-form.stacked .field {
-  margin-bottom: 0px;
-  width: 40%;
-}
-
-.hs-form .actions {
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
-}
-
-.hs-form .hs-button {
-  box-shadow: 0;
-  background-image: none;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
