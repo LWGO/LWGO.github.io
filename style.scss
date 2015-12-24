@@ -291,9 +291,14 @@ footer {
   width: 40%;
 }
 
-.hs-form .actions {
+.hs-submit .actions {
   margin: 0 0 0 0;
-  
+  padding: 0 0 0 0;
+}
+
+.hs-form .hs-button {
+  box-shadow: 0;
+  background-image: none;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
