@@ -282,11 +282,33 @@ footer {
   text-align: center;
 }
 
-.hs-button primary large {
-  background-color: #4184cc;
-  color: #ffffff;
-  width: 100px;
-  
+input.hs-button primary large {
+    background-color: #4184cc;
+    color: #fff;
+    border-top: 1px solid #4184cc;
+    border-bottom: 1px solid #4184cc;
+    border-right: 1px solid #4184cc;
+    border-left: 1px solid #4184cc;
+    border-radius: 4px;
+
+}
+
+.hbspt-form {
+  font-size: 14px
+
+}
+
+.input {
+    display: inline-block;
+    width: 110px;
+    height: 18px;
+    padding: 4px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    color: #666;
+    border: 1px solid #ccc;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
