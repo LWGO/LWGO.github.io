@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some basic information on me:
-
 I'm Lars and I'm a product manager at HubSpot. When I'm not trying to simplify products, I'm probably skiing, traveling, or otherwise generally exploring the outdoors.
 
 If you want updates with my new posts, drop your details in the form below:
