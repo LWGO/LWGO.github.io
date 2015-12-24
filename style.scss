@@ -282,7 +282,12 @@ footer {
   text-align: center;
 }
 
-.hs-button primary large {
+.hbspt-form {
+  font-size: 14px
+
+}
+
+input.hs-button.primary.large {
     background-color: #4184cc;
     color: #fff;
     border-top: 1px solid #4184cc;
@@ -290,13 +295,8 @@ footer {
     border-right: 1px solid #4184cc;
     border-left: 1px solid #4184cc;
     border-radius: 4px;
-
 }
 
-.hbspt-form {
-  font-size: 14px
-
-}
 
 .input {
     width: 110px;
