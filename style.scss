@@ -287,29 +287,33 @@ footer {
 
 }
 
-.hs-button.primary.large {
-    background-color: #4184cc;
-    color: #fff;
-    border-top: 1px solid #4184cc;
-    border-bottom: 1px solid #4184cc;
-    border-right: 1px solid #4184cc;
-    border-left: 1px solid #4184cc;
-    border-radius: 4px;
-    font-size: 14px;
-
+.hs-form-field {
+    padding: 4px;
 }
-
 
 .hs-input {
     width: 110px;
     height: 20px;
-    padding-bottom: 4px;
+    padding: 4px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: normal;
     line-height: 18px;
     color: #666;
     box-sizing: content-box;
+}
+
+.hs-button.primary.large {
+    background-color: #4184cc;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px;
+    width: 140px;
+    border-top: 1px solid #4184cc;
+    border-bottom: 1px solid #4184cc;
+    border-right: 1px solid #4184cc;
+    border-left: 1px solid #4184cc;
+    border-radius: 4px;
 
 }
 
