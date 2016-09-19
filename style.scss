@@ -335,7 +335,7 @@ footer {
 
 
 }
- 
+
 .tooltiptext {
     width: 120px;
     background-color: white;
@@ -351,9 +351,9 @@ footer {
  filter: drop-shadow(2px 6px 4px rgba(0,0,0,.3));
 -webkit-filter: drop-shadow(2px 6px 4px rgba(0,0,0,.3));
 
-    
+
 }
-  
+
 .tooltiptext:after {
     content: "";
     position: absolute;
@@ -369,4 +369,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-

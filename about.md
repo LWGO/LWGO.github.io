@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Lars and I'm a product manager at HubSpot. When I'm not playing product manager, I'm probably skiing, hiking or reading.
+I'm Lars and I'm a product manager at HubSpot. When I'm not playing at product management, I'm probably skiing, hiking or reading.
 
 If you want updates with my new posts, drop your details in the form below:
 
