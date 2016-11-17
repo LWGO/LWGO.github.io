@@ -20,3 +20,6 @@ If you want updates with my new posts, drop your details in the form below:
     formId: 'b0c5b9b5-5576-4a6f-ad5c-969aba749da6'
   });
 </script>
+
+Also let me know your favorite color:
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV0VQTla20QcIBT36N3fZkG6WvYrbzMrZrwjDGUkcctI7j7w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
