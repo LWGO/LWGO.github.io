@@ -11,18 +11,18 @@ I’ve borrowed an idea from a fellow PM, who believes, “If it’s important, 
 So, what does this mean for my day-to-day workflow?
 
 Here’s how I use email: 
-I use Google Inbox, with appropriate filters set up to give me daily/weekly rollups for group emails.
-I use the keyboard shortcuts - “y” (archive) is your new best friend. I read and then archive anything without a direct action item for me to follow up on. I can always search for it if I need to re-read later.
-Some messages only require a quick (sub 2 minute) response. I deal with them immediately, then archive. (NB: I don’t leave those messages in my Inbox to remind me I’m expecting a response - If it’s important, it’ll come up again.)
-I leave messages (usually one or two) with larger ‘to-do’ items in my Inbox. I archive them once I’ve ‘done’ whatever the action was.
-Close the email tab so I won’t interrupt myself to check it out of habit. This has done almost as much for my productivity as the rest of my rules combined.
+- I use Google Inbox, with appropriate filters set up to give me daily/weekly rollups for group emails.
+- I use the keyboard shortcuts - “y” (archive) is your new best friend. I read and then archive anything without a direct action item for me to follow up on. I can always search for it if I need to re-read later.
+- Some messages only require a quick (sub 2 minute) response. I deal with them immediately, then archive. (NB: I don’t leave those messages in my Inbox to remind me I’m expecting a response - If it’s important, it’ll come up again.)
+- I leave messages (usually one or two) with larger ‘to-do’ items in my Inbox. I archive them once I’ve ‘done’ whatever the action was.
+- Close the email tab so I won’t interrupt myself to check it out of habit. This has done almost as much for my productivity as the rest of my rules combined.
 
 Here are my rules for slack:
-Turn off all notifications in the Dock / top right corner. I don’t understand how people could get anything done without doing this.
-Stay on the “All Unreads” tab.
-Hit ‘enter’ to read and then ‘r’ liberally to mark notifications not needing a response as “read”.
-Use Cmd-K to jump to and respond to channels/conversations.
-Create slack in my day by turning off Slack. I usually take a few hours in the morning to focus on “deep work” (a la [Cal Newport](http://calnewport.com/books/deep-work/)) before I open Slack for the day.
+- Turn off all notifications in the Dock / top right corner. I don’t understand how people could get anything done without doing this.
+- Stay on the “All Unreads” tab.
+- Hit ‘enter’ to read and then ‘r’ liberally to mark notifications not needing a response as “read”.
+- Use Cmd-K to jump to and respond to channels/conversations.
+- Create slack in my day by turning off Slack. I usually take a few hours in the morning to focus on “deep work” (a la [Cal Newport](http://calnewport.com/books/deep-work/)) before I open Slack for the day.
 
 
 
