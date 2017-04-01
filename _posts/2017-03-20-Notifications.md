@@ -4,9 +4,9 @@ title: Keeping your sanity with email and slack notifications
 
 ---
 
-I agree with [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.d3uzdc7sk) - group chat (or even just constant email checking) is a productivity killer. But considering I still have to be somewhat responsive to keep my job, I’ve figured out how to stay sane in our modern world’s notification hellscape.This post outlines how I deal with the worst offenders (email and slack) sending distracting notifications. Maybe it’ll be helpful for you too.
+Group chat (or constant email checking) is a productivity killer. But as a PM, I still have to be somewhat responsive to keep my job. I’ve figured out  in our modern world’s notification hellscape. This post outlines my personal approach to email and slack sending distracting notifications. Maybe it’ll be helpful for you too.
 
-I’ve borrowed an idea from a fellow PM, who believes, “If it’s important, it’ll come up again.” This philosophy is the basis for my email and Slack notifications workflow. As scary as ignoring emails and slacks can sound (what if it’s my boss!?), I find any notifications I manage to miss, will resurface again if whatever caused them was important enough. Yes, this means I’m less responsive than I could be. But it’s worth the tradeoff to keep my attention - people can ask for my focus all they want, it’s still my call whether they get it.
+I’ve borrowed an idea from one of my coworkers, who believes, “If it’s important, it’ll come up again.” This philosophy is the basis for my email and Slack notifications workflow. It sounds scary to ignore emails and slacks (what if it’s my boss!?). But, any notifications I  miss always resurface if whatever caused them was important . Yes, this means I’m less responsive than I could be. But it’s worth the tradeoff to keep my attention. People can ask for my focus all they want, it’s still my call whether they get it.
 
 So, what does this mean for my day-to-day workflow?
 
