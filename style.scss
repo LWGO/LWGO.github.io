@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4;
-  font-family: proxima-nova, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, {
-  font-family: proxima-nova, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -68,7 +68,7 @@ h4 {
 p {
   margin: 15px 0;
   font-size: 18px;
-  font-family: proxima-nova, sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 1.58;
 }
 
@@ -200,8 +200,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: proxima-nova, sans-serif;
-  font-weight: 300;
+  font-family: 'Roboto', sans-serif;  font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
 }
