@@ -24,6 +24,4 @@ So, what does this mean for my day-to-day workflow?
 - Use Cmd-K to jump to and respond to channels/conversations.
 - Create slack in my day by turning off Slack. I usually take a few hours in the morning to focus on “deep work” (a la [Cal Newport](http://calnewport.com/books/deep-work/)) before I open Slack for the day.
 
-
-
-
+Have your own productivity tips to share? I'd love to hear them at: lars (at) hubspot (dot) com 
