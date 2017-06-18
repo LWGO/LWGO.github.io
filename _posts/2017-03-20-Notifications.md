@@ -6,7 +6,7 @@ title: Keeping your sanity with email and slack notifications
 
 Group chat (or constant email checking) is a productivity killer. But as a PM, I still have to be somewhat responsive to keep my job. How should you balance the two?
 
-This post outlines my personal approach to dealing with email and slack notifications. Maybe it’ll be helpful for you too.
+This post outlines my personal approach to dealing with email and slack notifications. Maybe it’ll be helpful for you as well.
 
 I’ve borrowed an idea from one of my coworkers, who believes, “If it’s important, it’ll come up again.” This philosophy is the basis for my email and Slack notifications workflow. It sounds scary to ignore emails and slacks (what if it’s my boss!?). But, any notifications I  miss always resurface if whatever caused them was important . Yes, this means I’m less responsive than I could be. But it’s worth the tradeoff to keep my attention. People can ask for my focus all they want, it’s still my call whether they get it.
 
