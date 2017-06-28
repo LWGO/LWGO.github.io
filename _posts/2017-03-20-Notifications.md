@@ -4,7 +4,7 @@ title: Keeping your sanity with email and slack notifications
 
 ---
 
-Group chat (or constant email checking) is a productivity killer. But as a PM, I still have to be somewhat responsive to keep my job. How should you balance the two?
+Group chat (or constant email checking) is a productivity killer. But as a PM, I still have to be somewhat responsive to keep my job. How to balance the two?
 
 This post outlines my personal approach to dealing with email and slack notifications. Maybe it’ll be helpful for you as well.
 
