@@ -4,11 +4,13 @@ title: Keeping your sanity with email and slack notifications
 
 ---
 
-Group chat (or constant email checking) is a productivity killer. But as a PM, I have to be responsive to keep my job. So, how do I balance the two?
+Group chat (or constant email checking) is a productivity killer. I check it more often than I should, and it saps my brain more than I'll admit.
 
-This post outlines my personal approach to dealing with email and slack notifications. Hopefully it’ll be helpful for you as well.
+That said, I try to fight it. And you should too.
 
-I’ve borrowed an idea from one of my coworkers, who believes, “If it’s important, it’ll come up again.” This philosophy is the basis for my email and Slack notifications workflow. It sounds scary to ignore emails and slacks (what if it’s my boss!?). But, any notifications I  miss always resurface if whatever caused them was important . Yes, this means I’m less responsive than I could be. But it’s worth the tradeoff to keep my attention. People can ask for my focus all they want, it’s still my call whether they get it.
+My main strategy is an idea I’ve borrowed from one of my fellow PMs, who believes, “If it’s important, it’ll come up again.” This philosophy is the basis for my email and Slack notifications workflow. It sounds scary to ignore emails and slacks (what if it’s my boss!?). But, any notifications I  miss always resurface if whatever caused them was important. Yes, this means I’m less responsive than I could be. But it’s worth the tradeoff to keep my attention.
+
+At this point, you might be thinking, "wow, Lars is one of those dicks who never responds to emails". And you're not completely wrong. But take a look in the mirror and think about 1) how immediately (and even whether) any given message needs a response and 2) how much your employer is paying you to focus your attention on something that moves the business forward instead of pushing emails/messages around. If there's actually an emergency, someone will get in touch with you - they'll find you in the office, call your cell, or otherwise make sure you find out. 
 
 So, what does this mean for my day-to-day workflow?
 
@@ -26,4 +28,3 @@ So, what does this mean for my day-to-day workflow?
 - Use Cmd-K to jump to and respond to channels/conversations.
 - Create slack in my day by turning off Slack. I usually take a few hours in the morning to focus on “deep work” (a la [Cal Newport](http://calnewport.com/books/deep-work/)) before I open Slack for the day.
 
-Have your own productivity tips to share? I'd love to hear them at: lars (at) hubspot (dot) com 
