@@ -29,7 +29,3 @@ formId: "c15635cf-e7c9-4ebc-a657-aa4165eacbee"
 });
 </script>
 =
-
-If you want updates with my new posts, drop your details in the form below.
-
-> > > > > > > aad481a880ff5b42791c16466537733ed740d23e
