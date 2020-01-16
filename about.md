@@ -17,14 +17,13 @@ At some point I’ll put together a primer for where to start, but first I need 
 
 If you want updates with my new posts, drop your details in the form below:
 
-<!--\[if lte IE 8\]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-hbspt.forms.create({
-css: '',
-portalId: '447168',
-formId: 'b0c5b9b5-5576-4a6f-ad5c-969aba749da6'
-});
-</script>
-<!\[endif\]-->
+    <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <script>
+      hbspt.forms.create({
+    	portalId: "447168",
+    	formId: "c15635cf-e7c9-4ebc-a657-aa4165eacbee"
+    });
+    </script>
