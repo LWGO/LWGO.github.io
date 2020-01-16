@@ -1,6 +1,6 @@
 ---
 title: Product Management is H-O-R-S-E
-layout: ''
+layout: Blog Post
 
 ---
 # Product Management is H-O-R-S-E
