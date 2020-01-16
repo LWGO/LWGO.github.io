@@ -1,11 +1,6 @@
 ---
 layout: post
 title: Product Management is H-O-R-S-E
-<<<<<<< HEAD
-
-=======
-layout: post
->>>>>>> 7f029f3a60f68f2a45c949d1ce9ea78d7bc9a280
 
 ---
 
