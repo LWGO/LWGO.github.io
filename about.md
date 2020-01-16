@@ -4,7 +4,7 @@ title: About
 permalink: "/about/"
 
 ---
-Hey there! I’m Lars. ![👋]
+Hey there! I’m Lars. !👋
 
 I currently live in Eugene OR while my wife works her way through a PhD. I write about tech, product management, and other things as they occur to me.
 
