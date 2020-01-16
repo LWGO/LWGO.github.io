@@ -13,7 +13,7 @@ I currently live in Eugene OR while my wife works her way through a PhD. I write
 * **More previous:** Dartmouth College undergrad, then Poly sci masters from Uppsala University
 * **Fun things**: I enjoy skiing, ultimate frisbee, dogs, and uncontroversial hobbies like ‘reading’.
 
-At some point I’ll put together a primer for where to start, but first I need to amass enough posts for it to be warranted.
+At some point I’ll put together a primer for where to start, but first I need to amass enough posts for it to be warranted. 😅
 
 If you want updates with my new posts, drop your details in the form below:
 
