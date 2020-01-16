@@ -8,5 +8,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _posts/product-management-is-h-o-r-s-e.md
