@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Product Management is H-O-R-S-E
-layout: default
+
 
 ---
 What’s the best way to get promoted in the mysterious field of product management?
