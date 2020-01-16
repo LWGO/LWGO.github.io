@@ -15,15 +15,4 @@ I currently live in Eugene OR while my wife works her way through a PhD. I write
 
 At some point I’ll put together a primer for where to start, but first I need to amass enough posts for it to be warranted. 😅
 
-If you want updates with my new posts, drop your details in the form below:
-
-    <!--[if lte IE 8]>
-    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-    <![endif]-->
-    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-    <script>
-      hbspt.forms.create({
-    	portalId: "447168",
-    	formId: "c15635cf-e7c9-4ebc-a657-aa4165eacbee"
-    });
-    </script>
+If you want updates with my new posts, drop your details in the form below.
