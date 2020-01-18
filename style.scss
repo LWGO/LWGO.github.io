@@ -26,7 +26,7 @@ body {
 
 .container {
   margin: auto 20%;
-  max-width: 740px;
+  max-width: 40%;
   padding: 0 10px;
   width: 100%;
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6, {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 32px;
   a {
     color: inherit;
   }
@@ -174,9 +174,10 @@ img {
 
 .sidebar
 {
-  position: absolute;
+  position: fixed;
   height: 100%;
-  width: 240px;
+  width: 15%;
+  min-width:240px;
   margin: auto;
   padding: 20px;
 
