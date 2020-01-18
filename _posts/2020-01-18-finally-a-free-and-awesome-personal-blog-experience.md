@@ -26,6 +26,6 @@ Even when I did manage to resist the temptation of messing with the layout, the 
 
 _(And yes, I'm aware Pages is now Microsoft, "the enemy", but at least it's on my domain - which is what those "don't write on medium" posts are really about anyways.)_
 
-Then the other day I discovered the missing piece - Forestry.io . It's exactly what I needed for my Jekyll+GH pages site! It allows me not only the basic layout control I wanted, but also the no-hassle blog post editing/publishing front end I was missing.
+Then the other day I discovered the missing piece - [Forestry.io](www.forestry.io). It's exactly what I needed for my Jekyll+GH pages site! It allows me not only the basic layout control I wanted, but also the no-hassle blog post editing/publishing front end I was missing.
 
 I'm optimistic I'll write more posts this year without those distractions. So if you're sick of paying $5 a month for the pleasure of updating your Wordpress plugins every month, check out this awesome new stack.
