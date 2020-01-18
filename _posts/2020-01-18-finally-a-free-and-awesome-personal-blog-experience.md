@@ -5,7 +5,7 @@ layout: post
 ---
 ![](/uploads/Screen Shot 2020-01-17 at 7.27.59 PM.png)
 
-## Forestry.io + Jekyll + Github pages = Win
+## Github Pages + Jekyll + Forestry.io = Win
 
 It's 2020 and I've re-platformed my personal blog. (I'm sure you care!)
 
