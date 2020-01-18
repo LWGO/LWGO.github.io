@@ -11,10 +11,8 @@ So what should you _actually do_ to get promoted as a PM? My suggestion: think a
 
 Like in HORSE, to succeed in your product management career, you need to:
 
-1\. Choose your shot,
-
-2\. Call your shot, and then
-
+1\. Choose your shot,  
+2\. Call your shot, and then  
 3\. Make your shot.
 
 Let’s dive into each one.
