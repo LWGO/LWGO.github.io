@@ -3,8 +3,7 @@ title: Finally a free and awesome personal blog experience
 layout: post
 
 ---
-
-### Forestry.io + Jekyll + Github pages
+### Forestry.io + Jekyll + Github pages = Win
 
 It's 2020 and I've re-platformed my personal blog. (I'm sure you care!)
 
