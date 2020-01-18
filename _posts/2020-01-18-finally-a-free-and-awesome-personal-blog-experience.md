@@ -10,11 +10,13 @@ It's 2020 and I've re-platformed my personal blog. (I'm sure you care!)
 
 A personal blog is a great project to mess around with, especially since it's allegedly the best way show off your professional skillz™ if you're in tech.
 
-As you can see, this blog is a minimalist, poorly-coded bastardization of an example. But I'm oddly proud of it because it's mine, goddamnit. 
+As you can see, this blog is a minimalist, poorly-coded bastardization of an example. But I'm oddly proud of it (because it's mine, goddammit). 
 
-That said, I've turned the corner this year. I finally found the combination of free services to host & edit it completely (Forestry.io, Jekyll, and Github pages)
+That said, I've turned the corner this year. I finally found the combination of free services to host & edit it completely painlessly (Forestry.io, Jekyll, and Github pages).
 
-Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap and I already felt I was shelling out for my custom domain. Part of the problem was also that I should have been able to host my blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way to be able to get a simple, "just words" theme setup I liked. (Here's hoping that changes in 2020.)
+Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap. I already felt I was shelling out for my custom domain, why pay even more? 
+
+Part of the problem was also that I should have been able to host this blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way. I wanted to be able to get a simple, "just words" theme setup I liked, and I couldn't get there. (Here's hoping that changes in 2020.)
 
 So I gave a static site on Jekyll and Github Pages a try. It took a little fiddling, but it's pretty straightforward and allowed me to learn some HTML/CSS without actually needing to make the template myself. So I'd done it. * A wild blog appeared *.
 
