@@ -20,7 +20,7 @@ Part of the problem was also that I should have been able to host this blog for 
 
 So, I gave a static site on Jekyll and Github Pages a try. It took a little fiddling, but it's pretty straightforward and allowed me to learn some HTML/CSS without actually needing to make the template myself. So I'd done it. * A wild blog appeared *.
 
-The real problem with that setup was that I'd have to re-deploy EVERY TIME I wanted to change a typo or tweak a sentence. And as soon as I opened my terminal and started editing the repo, it was all too distracting. ...Maybe I should _adjust the padding a little_... then all of a sudden it's 2 hours later and I wouldn't have anything written.
+The real problem with that setup was that I'd have to re-deploy EVERY TIME I wanted to change a typo or tweak a sentence. And as soon as I opened my terminal and started editing the repo, it was all too distracting. ...Maybe I should _adjust the padding a little_... then all of a sudden, it's 2 hours later and I would have nothing written.
 
 Even when I did manage to resist the temptation of messing with the layout, the writing experience was far from polished. I was stuck in a code editor wishing I could just write the post in a proper editor - something easy like Medium or Substack. But that solution comes with the old "you're renting time on someone else's platform" issue.
 
