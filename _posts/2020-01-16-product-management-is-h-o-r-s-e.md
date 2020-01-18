@@ -3,7 +3,6 @@ layout: post
 title: Product Management is H-O-R-S-E
 
 ---
-
 What’s the best way to get promoted in the mysterious field of product management?
 
 For many PMs it’s hard to know what behaviors your product leadership is looking for. Even the best attempts to define a career ladder seem to end up as [buckets of nebulous skills](https://www.intercom.com/blog/evolving-your-product-management-career-ladder). No matter how you slice it, product management is a squishy discipline.
@@ -60,14 +59,6 @@ So, if you’re a PM trying to show off your “leadership behaviors” or “in
 
 Chances are you’ll gain trust (and get promoted) faster if you focus on:
 
-<<<<<<< HEAD
-1) Choosing good shots
-
-2) Calling your shots
-
-3) Making all your shots.
-=======
 1. Choosing good shots
 2. Calling your shots
 3. Making all your shots.
->>>>>>> 7f029f3a60f68f2a45c949d1ce9ea78d7bc9a280
