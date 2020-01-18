@@ -16,7 +16,7 @@ That said, I've turned the corner this year. I finally found the combination of 
 
 Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap. I already felt I was shelling out for my custom domain, why pay even more? 
 
-Part of the problem was also that I should have been able to host this blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way. I wanted to be able to get a simple, "just words" theme setup I liked, and I couldn't get there. (Here's hoping that changes in 2020.)
+Part of the problem was also that I should have been able to host this blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way. I wanted a simple, "just words" theme setup I liked, and I couldn't get there. (Here's hoping that changes in 2020.)
 
 So, I gave a static site on Jekyll and Github Pages a try. It took a little fiddling, but it's pretty straightforward and allowed me to learn some HTML/CSS without actually needing to make the template myself. So I'd done it. * A wild blog appeared *.
 
