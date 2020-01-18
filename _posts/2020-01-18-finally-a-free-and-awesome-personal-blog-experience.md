@@ -14,7 +14,7 @@ As you can see, this blog is a minimalist, poorly-coded bastardization of an exa
 
 That said, I feel like I've turned the corner this year because I finally found the combination of free services to host & edit it completely free (Forestry.io, Jekyll, and Github pages)
 
-Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap and I already felt I was shelling out for my custom domain. Part of the problem was also that I should have been able to host my blog on HubSpot (my employer), but there were too many power / custom features standing in my way to be able to get a simple, "just words" theme I liked. (Here's hoping that changes in 2020.)
+Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap and I already felt I was shelling out for my custom domain. Part of the problem was also that I should have been able to host my blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way to be able to get a simple, "just words" theme setup I liked. (Here's hoping that changes in 2020.)
 
 So I gave a static site on Jekyll and Github Pages a try. It took a little fiddling, but it's pretty straightforward and allowed me to learn some HTML/CSS without actually needing to make the template myself.
 
