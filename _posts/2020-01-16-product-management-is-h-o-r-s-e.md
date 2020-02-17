@@ -29,9 +29,9 @@ In HORSE as in PMing, it’s worth thinking about the difficulty of the shots yo
 
 ## Calling your shot
 
-The next step in HORSE: you have to call your shot. You have to describe what you’re about to do so the other person knows what you’re attempting. Oh cool, you made a random no-look, behind the back sky hook? Whoopdy shit - it only counts if you called it.
+In HORSE you have to describe what you’re about to do so the other person knows what you’re attempting. So, you were playing around and made a no-look, behind the back sky hook? Whoopdy shit - it only counts if you called it.
 
-This is true for PMs too. To get credit for your work, you need to broadcast the problems you’ll be solving, why you’re solving them, and what the solutions will be. Without calling your shot, you can look like you got lucky. Maybe the success of your product was due to your team’s genius, rather than anything you contributed. To score points in the PM career game, you gotta call your shots.
+This is true for PMs too. To get credit for your work, you need to broadcast the problems you’ll be solving, why you’re solving them, and what the solutions will do. Without calling your shot, you can look like you got lucky. Maybe the success of your product was due to your team’s genius, rather than anything you contributed. To score points in the PM career game, you gotta call your shots.
 
 This isn’t a political “get credit” issue, there’s actually a deeper reason that this analogy holds. Calling your shot as a PM is important for coordinating teams across the company. By calling your shot, you’re signaling to customer-facing teams what your priorities are (which shot you’re taking). You’re also giving them a chance to help you with your shot selection (by getting their feedback). And you’re letting them help you make the shot when they prepare customers for it.
 
