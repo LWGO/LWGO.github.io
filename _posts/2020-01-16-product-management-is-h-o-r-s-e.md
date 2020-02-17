@@ -23,7 +23,7 @@ One of the most important parts of HORSE is also one of the most important parts
 
 This is pretty straightforward in HORSE. You can decide, for example, that you’re going to go for a high-volume strategy. Taking lots of easy shots you’re confident you can make. This can work in the PM world too. Choose a bunch of simple bug fixes and features that will let you build a steady lead on your competitors. Then knock ‘em out.
 
-That said, in the PM game, whether you can do this depends on the product and the situation you inherit. You might not be able to bank on a strategy of easy layups, especially if you’re creating a new product from scratch. Like facing a stronger opponent on the basketball court, a competitive market will push you to take riskier shots to win the game. You might not hit all your shots in that scenario, but when you do you’re almost guaranteed points.
+That said, in the PM game, whether you can do this depends on the product and the situation you inherit. You might not be able to bank on a strategy of easy layups, especially if you’re creating a new product from scratch. Like facing a stronger opponent on the basketball court, a competitive market will push you to take riskier shots to win the game. You might not hit all your shots in that scenario, but when you do, you’re almost guaranteed points.
 
 In HORSE as in PMing, it’s worth thinking about the difficulty of the shots you’re planning. Be sure to balance some easy and some hard shots for an optimal strategy.
 
