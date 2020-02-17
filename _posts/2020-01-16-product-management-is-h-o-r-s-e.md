@@ -5,11 +5,11 @@ title: Product Management is H-O-R-S-E
 ---
 What’s the best way to get promoted in the mysterious field of product management?
 
-For many PMs it’s hard to know what behaviors your product leadership is looking for. Even the best attempts to define a career ladder seem to end up as [buckets of nebulous skills](https://www.intercom.com/blog/evolving-your-product-management-career-ladder). No matter how you slice it, product management is a squishy discipline.
+Product leaders often don't make it clear to PMs what they value. Even the best attempts to define a career ladder seem to end up as [buckets of nebulous skills](https://www.intercom.com/blog/evolving-your-product-management-career-ladder). No matter how you slice it, product management is a squishy discipline.
 
-So what should you _actually do_ to get promoted as a PM? My suggestion: think about advancing your career using the classic hoops game HORSE .
+So what should you _actually do_ to get promoted as a PM? My suggestion is to think about advancing your career using the classic basketball game, HORSE .
 
-Like in HORSE, to succeed in your product management career, you need to:
+As in HORSE, to succeed in your product management career, you need to:
 
 1\. Choose your shot,  
 2\. Call your shot, and then  
