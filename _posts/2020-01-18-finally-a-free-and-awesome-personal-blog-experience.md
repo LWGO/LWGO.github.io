@@ -25,7 +25,7 @@ The real problem with that setup was that I'd have to re-deploy EVERY TIME I wan
 
 Even when I did manage to resist the temptation of messing with the layout, the writing experience was far from polished. I was stuck in a code editor wishing I could just write the post in a proper editor - something easy, like Medium or Substack. But that solution comes with the old, "you're renting space on someone else's platform" issue.
 
-_(And yes, I'm aware Pages is now Microsoft, "the enemy", but at least it's on my domain - which is what those "don't write on medium" posts are really about anyways.)_
+_(And yes, I'm aware GH Pages is now Microsoft, "the enemy", but at least it's on my domain - which is what those "don't write on medium" posts are really about anyways.)_
 
 Then the other day I discovered the missing piece - [Forestry.io](www.forestry.io). It's exactly what I needed for my Jekyll+GH pages site! It allows me not only the basic layout control I wanted, but also the no-hassle blog post editing/publishing front end I was missing.
 
