@@ -15,7 +15,7 @@ As you can see, this blog is a minimalist, poorly-coded bastardization of an exa
 
 That said, I've turned the corner this year. I finally found the combination of free services to host & edit it completely painlessly (Forestry.io, Jekyll, and Github pages).
 
-Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap. I already felt I was shelling out for my custom domain, why pay even more?
+Since first starting to mess with a personal blog in 2017, I never wanted to pay Wordpress or Posthaven $5 a month, because I'm super cheap. I already felt I was shelling out for my custom domain each year, why pay even more?
 
 Part of the problem was also that I should have been able to host this blog for free on HubSpot (because I work there), but there were too many power / custom features standing in my way. I wanted a simple, "just words" theme setup I liked, and I couldn't get there. (Here's hoping that changes in 2020.)
 
