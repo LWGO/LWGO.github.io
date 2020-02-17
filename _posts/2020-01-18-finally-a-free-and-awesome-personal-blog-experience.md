@@ -3,7 +3,6 @@ title: Finally a free and awesome personal blog experience
 layout: post
 
 ---
-
 Github Pages + Jekyll + Forestry.io = Win
 
 ![Github Pages + Jekyll + Forestry.io](/uploads/Screen Shot 2020-01-17 at 7.27.59 PM.png "Github Pages + Jekyll + Forestry.io")
@@ -12,7 +11,7 @@ It's 2020 and I've re-platformed my personal blog. (I'm sure you care!)
 
 A personal blog is a great project to mess around with, especially since it's allegedly the best way show off your professional skillz™ if you're in tech.
 
-As you can see, this blog is a minimalist, poorly-coded bastardization of an example. But I'm oddly proud of it (because it's mine, goddammit).
+As you can see, this blog is a minimalist, poorly-coded bastardization of an example. But I'm oddly proud of it (because it's mine, duh).
 
 That said, I've turned the corner this year. I finally found the combination of free services to host & edit it completely painlessly (Forestry.io, Jekyll, and Github pages).
 
