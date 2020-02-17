@@ -23,7 +23,7 @@ So, I gave a static site on Jekyll and Github Pages a try. It took a little fidd
 
 The real problem with that setup was that I'd have to re-deploy EVERY TIME I wanted to change a typo or tweak a sentence. And as soon as I opened my terminal and started editing the repo, it was all too distracting. ...Maybe I should _adjust the padding a little_... then all of a sudden, it's 2 hours later and I wouldn't have anything written.
 
-Even when I did manage to resist the temptation of messing with the layout, the writing experience was far from polished. I was stuck in a code editor wishing I could just write the post in a proper editor - something easy, like Medium or Substack. But that solution comes with the old, "you're renting time on someone else's platform" issue.
+Even when I did manage to resist the temptation of messing with the layout, the writing experience was far from polished. I was stuck in a code editor wishing I could just write the post in a proper editor - something easy, like Medium or Substack. But that solution comes with the old, "you're renting space on someone else's platform" issue.
 
 _(And yes, I'm aware Pages is now Microsoft, "the enemy", but at least it's on my domain - which is what those "don't write on medium" posts are really about anyways.)_
 
