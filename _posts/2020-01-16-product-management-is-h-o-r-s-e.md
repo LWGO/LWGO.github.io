@@ -25,7 +25,7 @@ This is pretty straightforward in HORSE. You can decide, for example, that you�
 
 That said, in the PM game, whether you can do this depends on the product and the situation you inherit. You might not be able to bank on a strategy of easy layups, especially if you’re creating a new product from scratch. Like facing a stronger opponent on the basketball court, a competitive market will push you to take riskier shots to win the game. You might not hit all your shots in that scenario, but when you do, you’re almost guaranteed points.
 
-In HORSE as in PMing, it’s worth thinking about the difficulty of the shots you’re planning. Be sure to balance some easy and some hard shots for an optimal strategy.
+In HORSE as in PMing, it’s worth thinking about the difficulty of the shots you’re planning. Be sure to balance some easy and some hard shots if you can - missing consistently isn't a good look.
 
 ## Calling your shot
 
