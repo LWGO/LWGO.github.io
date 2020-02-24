@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4;
-  font-family: 'Open-sans', sans-serif;
+  font-family: Roboto, sans-serif;
   color: $darkGray;
 }
 
@@ -28,17 +28,17 @@ body {
   margin: auto 250px;
   max-width: 768px;
   min-width: 280px;
-  padding: 0% 5% 0% 5%;
+  padding: 0% 0% 0% 5%;
 
   @include mobile {
     margin:auto;
     min-width: 100%;
-    padding: 0% 5% 0% 5%;
+    padding: 0% 0% 0% 5%;
     }
 }
 
 h1, h2, h3, h4, h5, h6, {
-  font-family: 'Open-sans', sans-serif;
+  font-family: Roboto, sans-serif;
   color: $darkerGray;
 
   line-height: 1.7;
@@ -167,7 +167,7 @@ img {
 
 .masthead {
   padding: 2% 2% 2% 20%;
-  max-width: 1200px;
+  max-width: 768px;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
