@@ -5,11 +5,11 @@ title: Product Management is H-O-R-S-E
 ---
 What’s the best way to get promoted in the mysterious field of product management?
 
-For many PMs it’s hard to know what behaviors your product leadership is looking for. Even the best attempts to define a career ladder seem to end up as [buckets of nebulous skills](https://www.intercom.com/blog/evolving-your-product-management-career-ladder). No matter how you slice it, product management is a squishy discipline.
+Product leaders often don't make it clear to PMs what they value. Even the best attempts to define a career ladder seem to end up as [buckets of nebulous skills](https://www.intercom.com/blog/evolving-your-product-management-career-ladder). No matter how you slice it, product management is a squishy discipline.
 
-So what should you _actually do_ to get promoted as a PM? My suggestion: think about advancing your career using the classic hoops game HORSE .
+So what should you _actually do_ to get promoted as a PM? My suggestion is to think about advancing your career using the classic basketball game, HORSE .
 
-Like in HORSE, to succeed in your product management career, you need to:
+As in HORSE, to succeed in your product management career, you need to:
 
 1\. Choose your shot,  
 2\. Call your shot, and then  
@@ -23,15 +23,15 @@ One of the most important parts of HORSE is also one of the most important parts
 
 This is pretty straightforward in HORSE. You can decide, for example, that you’re going to go for a high-volume strategy. Taking lots of easy shots you’re confident you can make. This can work in the PM world too. Choose a bunch of simple bug fixes and features that will let you build a steady lead on your competitors. Then knock ‘em out.
 
-That said, in the PM game, whether you can do this depends on the product and the situation you inherit. You might not be able to bank on a strategy of easy layups, especially if you’re creating a new product from scratch. Like facing a stronger opponent on the basketball court, a competitive market will push you to take riskier shots to win the game. You might not hit all your shots in that scenario, but when you do you’re almost guaranteed points.
+That said, in the PM game, whether you can do this depends on the product and the situation you inherit. You might not be able to bank on a strategy of easy layups, especially if you’re creating a new product from scratch. Like facing a stronger opponent on the basketball court, a competitive market will push you to take riskier shots to win the game. You might not hit all your shots in that scenario, but when you do, you’re almost guaranteed points.
 
-In HORSE as in PMing, it’s worth thinking about the difficulty of the shots you’re planning. Be sure to balance some easy and some hard shots for an optimal strategy.
+In HORSE as in PMing, it’s worth thinking about the difficulty of the shots you’re planning. Be sure to balance some easy and some hard shots if you can - missing consistently isn't a good look.
 
 ## Calling your shot
 
-The next step in HORSE: you have to call your shot. You have to describe what you’re about to do so the other person knows what you’re attempting. Oh cool, you made a random no-look, behind the back sky hook? Whoopdy shit - it only counts if you called it.
+In HORSE you have to describe what you’re about to do so the other person knows what you’re attempting. So, you were playing around and made a no-look, behind the back sky hook? Whoopdy shit - it only counts if you called it.
 
-This is true for PMs too. To get credit for your work, you need to broadcast the problems you’ll be solving, why you’re solving them, and what the solutions will be. Without calling your shot, you can look like you got lucky. Maybe the success of your product was due to your team’s genius, rather than anything you contributed. To score points in the PM career game, you gotta call your shots.
+This is true for PMs too. To get credit for your work, you need to broadcast the problems you’ll be solving, why you’re solving them, and what the solutions will do. Without calling your shot, you can look like you got lucky. Maybe the success of your product was due to your team’s genius, rather than anything you contributed. To score points in the PM career game, you gotta call your shots.
 
 This isn’t a political “get credit” issue, there’s actually a deeper reason that this analogy holds. Calling your shot as a PM is important for coordinating teams across the company. By calling your shot, you’re signaling to customer-facing teams what your priorities are (which shot you’re taking). You’re also giving them a chance to help you with your shot selection (by getting their feedback). And you’re letting them help you make the shot when they prepare customers for it.
 
