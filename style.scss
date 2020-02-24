@@ -26,8 +26,8 @@ body {
 
 .container {
   margin: auto 250px;
-  max-width: 1000px;
-  min-width: 518px;
+  max-width: 768px;
+  min-width: 280px;
   padding: 0% 5% 0% 5%;
 
   @include mobile {
